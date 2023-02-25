@@ -3,3 +3,6 @@ this new one
 this is..
 hello shikha is here ....
 new first file
+$ ssh-keygen -t ecdsa-sk -C "sikhasrivastava1998@_email@example.com"
+ ssh-keygen -t rsa -b 4096 -C "sikhasrivastava1998@_email@example.com"
+new key ...ssh 
